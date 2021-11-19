@@ -1,0 +1,2 @@
+como llevar archivos del repo local al remoto
+antes de subir archivos a github tiene que estar todo commiteado

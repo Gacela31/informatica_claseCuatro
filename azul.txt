@@ -1,0 +1,2 @@
+git clone: permite crear una copia exacta de todos los archivos existentes en un repositorio remoto. url de donde se encuentran publicados los archivos. se ejecuta una sola vez
+git pull origin main: para actualizar los archivos que sufrieron modificación (hacerlo antes de empezar a trabajar para asegurarse que te

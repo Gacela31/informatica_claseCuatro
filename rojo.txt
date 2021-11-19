@@ -1,0 +1,4 @@
+Una rama o branch de Git nos permitirá trabajar en versiones de nuestros archivos de manera mucho más ordenada
+git branch <branch>
+Crea una nueva rama llamada <branch>.
+ git branch -d <branch>
