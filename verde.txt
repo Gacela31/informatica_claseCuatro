@@ -1,1 +1,3 @@
 Verde espectral es, simplemente, el color verde de la región del espectro electromagnético que el ojo humano es capaz de percibir.
+como llevar archivos del repo local al remoto
+antes de subir archivos a github tiene que estar todo commiteado
